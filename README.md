@@ -10,6 +10,8 @@ This lab simulates that real-world scenario using Cisco Packet Tracer.
 
 ---
 
+![](docs/topology.png)
+
 ## What is DHCP?
 
 **DHCP (Dynamic Host Configuration Protocol)** automatically assigns:
