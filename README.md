@@ -10,7 +10,7 @@ This lab simulates that real-world scenario using Cisco Packet Tracer.
 
 ---
 
-![](docs/topology.png)
+![Topology](docs/topology.png)
 
 ## What is DHCP?
 
